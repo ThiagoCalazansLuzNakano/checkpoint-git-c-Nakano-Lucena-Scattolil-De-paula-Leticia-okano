@@ -5,6 +5,6 @@ int main(){
     printf("Guilherme De Lucena Fontes\n");
     printf("Gabriel de Paula Santos\n");
     printf("Leticia Aiko Okano"\n);
-
+    printf("Enzo Scattolin Furtado\n");
     return 0;
 }
