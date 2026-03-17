@@ -8,3 +8,8 @@ int main(){
     printf("Enzo Scattolin Furtado\n");
     return 0;
 }
+
+int main(){ 
+  int (idade);
+  printf("20 anos"); 
+}
