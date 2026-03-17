@@ -5,7 +5,7 @@ int main(){
     printf("Guilherme De Lucena Fontes 20 anos\n");
     printf("Gabriel de Paula Santos, 18 anos, meu time do coração é o São Paulo!\n");
 
-    printf("Leticia Aiko Okano, 18 anos\n");
+    printf("Leticia Aiko Okano, 18 anos, meu time do coração é o São Paulo\n");
     printf("Enzo Scattolin Furtado\n");
     
     return 0;
