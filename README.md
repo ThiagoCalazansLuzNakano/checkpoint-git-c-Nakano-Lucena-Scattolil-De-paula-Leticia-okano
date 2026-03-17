@@ -1,0 +1,1 @@
+# checkpoint-git-c-Nakano-Lucena-Scattolil-De-paula-Leticia-okano
