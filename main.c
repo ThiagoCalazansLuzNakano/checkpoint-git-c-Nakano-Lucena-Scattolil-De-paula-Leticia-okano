@@ -1,8 +1,9 @@
 #include<stdio.h>
 
 int main(){
-    print("Thiago Calazans Luz Nakano");
-    print ("Guilherme De Lucena Fontes ");
+    printf("Thiago Calazans Luz Nakano\n");
+    printf("Guilherme De Lucena Fontes\n");
+    printf("Gabriel de Paula Santos\n");
 
     return 0;
 }
