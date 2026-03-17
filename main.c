@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-    printf("Thiago Calazans Luz Nakano\n");
+    printf("Thiago Calazans Luz Nakano, 17 anos\n");
     printf("Guilherme De Lucena Fontes\n");
     printf("Gabriel de Paula Santos, 18 anos\n");
 
